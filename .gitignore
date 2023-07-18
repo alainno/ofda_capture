@@ -1,3 +1,7 @@
 captura.mp4
-ofda/
 frame0.png
+cropped/
+distance_maps/
+.DS_Store
+ofda.zip
+repair.py
